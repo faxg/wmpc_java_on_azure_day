@@ -61,7 +61,7 @@ You can "proof" your achievements, share your digital badges with others, and ke
 
 To claim your badge, start by scanning this QR code:
 
-![](./img/azure_heroes_learner_qr.png){ width: 200px; }
+<img src="./img/azure_heroes_learner_qr.png" width="200px"/>
 
 
 Check out the [Azure Heroes website](https://www.microsoft.com/skills/azureheroes) to find out more about our other digital collectibles and how to earn them!
