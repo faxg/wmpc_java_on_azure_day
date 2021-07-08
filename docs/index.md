@@ -57,11 +57,11 @@ Additional info:
 
 By joining our tech sessions, you are eligible to claim a **Azure Hero Learner** digital badge. 
 Azure Hero "Badgers" are **NFT**s ("Nun-Fungible Tokens", https://en.wikipedia.org/wiki/Non-fungible_token), stored on the Ethereum Blockchain and claimed into your personall wallet. 
-You can "proof" your achievements, share your digital badges with others, and keep collecting more of them as you continue to be a part of or Microsoft Azure technical community.
+You can "proof" your achievements, share your digital badges with others, and keep collecting more of them as you continue to be a part of our Microsoft Azure technical community.
 
 To claim your badge, start by scanning this QR code:
 
-![](./img/azure_heroes_learner_qr.png)
+![](./img/azure_heroes_learner_qr.png){ width: 200px; }
 
 
 Check out the [Azure Heroes website](https://www.microsoft.com/skills/azureheroes) to find out more about our other digital collectibles and how to earn them!
@@ -83,7 +83,9 @@ Check out the [Azure Heroes website](https://www.microsoft.com/skills/azureheroe
   - You'll also need your personal **Microsoft ID** (and potentially your github.com login)
   
   
-Please register and login here: https://aka.ms/UBS/JavaOnAzureChallenge
+Please register and login here: 
+
+[https://aka.ms/UBS/JavaOnAzureChallenge](https://aka.ms/UBS/JavaOnAzureChallenge){: .btn}
 
 If you want more details on how to join the challenge, have a look at [this](./CSC.md) page.
 
