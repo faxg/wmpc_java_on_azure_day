@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Java on Azure @ WMPC Cloud Native Day
 description: All about our Java on Azure sessions, and our Cloud Skills Challenge
+show_downloads: false
