@@ -1,4 +1,4 @@
-# WMPC - Java on Azure
+# WMPC - Java on Azure @ Cloud Native Day
 
 Welcome WMPC Learners for the **Cloud Native Day** on July 15th 2021.
 
@@ -6,22 +6,25 @@ Welcome WMPC Learners for the **Cloud Native Day** on July 15th 2021.
 On this page, you'll find all the information around Microsofts 
 sessions around Java on Azure, how to participate in our *Cloud Skills Challenge*, and how to claim some rewards and marketing SWAG (*) for the participants and challenge winners.
 
-TL;dnr: 
-- Join the talk/demo sessions with your corporate workstation
-- Claim an Azure Hero NFT into your wallet
-- Join the 30 day Cloud Skills Challenge and compete with your peers.
-  Please use your personal/private workstation for that. Winners will receive a small goodie bag.
+tl;dnr: 
+- Join the **talk and demo sessions** on July 15th 2021 with your corporate workstation
+badge NFT into your wallet.
+- Join the 30 day **Cloud Skills Challenge** self-learning experience.
+Please use your personal/private workstation to access Microsoft Learn.
+- Challenge Winners will receive a small goodie bag from Microsoft (*)
+- Claim your first *Azure Hero "Learner"* digital badge ("NFT")
 - Consider signing up for our developer newsletter ``Microsoft.Source`` 
-- Contact the team
+- Connect with your Microsoft tech community
+
 
 <small>
-(*) A few Microsoft marketing goodies, subject to availability. 
+(*) A few Microsoft marketing goodies, subject to availability. See below for details how to qualify.
 Please work with your event organizer to claim after completing the challenge.
 </small>
 
 
 ---
-Here's how you get the most out of this experience:
+
 
 
 ## PART 1: Talks and demo sessions
@@ -36,37 +39,30 @@ Here's how you get the most out of this experience:
 An overview of all the different options you have to build new Java apps or modernize existing ones on Azure.
 
 Additional info:
-- Java on Azure Overview
-
-- Demo video
-
-- Demo repository
+- Java on Azure Overview: https://azure.microsoft.com/en-us/develop/java/
+- Video: https://youtu.be/UNaLrgyLvMI
+- Demo repository: TBD
 
 ### Session #2 (11:00 CET) - Azure Spring Cloud
 Rory will give a presentation and demo about how to run Spring Boot/Cloud applications on Azure, using the Azure Spring Cloud service
 
 Additional info:
-- Azure Spring Cloud overview
-
-- Demo video
-
-- Demo repository
+- Azure Spring Cloud Overview: https://azure.microsoft.com/en-us/services/spring-cloud/
+- Video: https://youtu.be/GmUVok2fh6c 
+- Demo repository: TBD
 
 
 
-### Your reward: Azure Hero "Learner" Digital NFT
-For joining our sessions, you will be eligible for a digitial badge.
+### Claim your reward: Azure Hero "Learner" Digital NFT
+![Learner Badger](https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/learner.jpg)
 
-[Azure Heroes](https://www.microsoft.com/skills/azureheroes) is a digital collectibles program for inclusive behaviour and meaningful impact to our technical community.
-![](https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/learner.jpg)
+By joining our tech sessions, you are eligible to claim a **Azure Hero Learner** digital badge. 
+Azure Hero "Badgers" are **NFT**s ("Nun-Fungible Tokens", https://en.wikipedia.org/wiki/Non-fungible_token), stored on the Ethereum Blockchain and claimed into your personall wallet. 
+You can "proof" your achievements, share your digital badges with others, and keep collecting more of them as you continue to be a part of or Microsoft Azure technical community.
 
-By joining our tech sessions, you are eligible to claim a **Azure Hero "Learner"** Badge into your wallet. Check out the website to find out about the other collectibles and how to earn them!
+Check out the [Azure Heroes website](https://www.microsoft.com/skills/azureheroes) to find out more about these digital collectibles and how to earn them!
 
 
-
-
-NOTE: Azure Hero "Badgers" are **NFT**s ("Nun-Fungible Tokens", https://en.wikipedia.org/wiki/Non-fungible_token), stored on the Ethereum Blockchain and claimed into your personall wallet. 
-By using the blockchain, those are verifiably scarse resources and you can also "proof" your individual achievement this way.
 
 
 ---
@@ -74,16 +70,22 @@ By using the blockchain, those are verifiably scarse resources and you can also 
 
 ## PART 2: Cloud Skills Challenge (CSC)
   ![](https://learn.microsoft.com/images/learn_left_icon.png)
-  - To deepen your skills after the sessions, we run a one month Cloud Skills Challenge, where you compete with your colleagues on XP points on a global leaderboard.
+  - To deepen your skills after the sessions, we run a one month Cloud Skills Challenge, where you compete with your colleagues for XP points on a global leaderboard.
   
-  - This is a gamified, "friendly compete" hands-on self-learning challenge, starting running from **July 15th 09:00 CET** to **August 15th 23:59:59 CET**
+  
+  - This is a gamified, hands-on self-learning challenge
+  - The challenge is running from **July 15th 09:00 CET** to **August 15th 23:59:59 CET**
   - Everything is happening on [Microsoft Learn](https://learn.microsoft.com/) , our global technical learning platform. For some labs, there will be sandboxes to run the code, directly from your browser (*)
-  - **IMPORTANT**: Please use your **private/personal** workstation, or an "open" developer desktop where you have admin rights to install CLIs, tools libraries locally, pull dependiencies from the internet (via ``mvm install`` etc.).
+  - **IMPORTANT**: Please use your **private/personal** workstation, or an "open" developer desktop where you have admin rights to install CLIs, tools libraries locally, pull dependiencies from the internet (via ``mvm install`` etc.) and a normal browser with JavaScript and Cookies enabled etc.
   - Currently, using Microsoft Learn is probably not accessible from your coporate workstations due to tight browser/security restrictions. We're working on streamlining this experience for future events, but data security and compliance are of course non-negotiatable. 
   - You'll also need your personal **Microsoft ID** (and potentially your github.com login)
   
   
 Please register and login here: https://aka.ms/UBS/JavaOnAzureChallenge
+
+If you want more details on how to join the challenge, have a look at [this](./CSC.md) page.
+
+
    
 
 
