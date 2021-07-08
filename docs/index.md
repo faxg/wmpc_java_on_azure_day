@@ -4,15 +4,14 @@ Welcome WMPC Learners for the **Cloud Native Day** on July 15th 2021.
 
 
 On this page, you'll find all the information around Microsofts 
-sessions around Java on Azure, how to participate in our *Cloud Skills Challenge*, and how to claim some rewards and marketing SWAG (*) for the participants and challenge winners.
+sessions around Java on Azure, how to participate in our *Cloud Skills Challenge*, and how to claim some digital rewards and marketing SWAG (*) for the participants and challenge winners.
 
 tl;dnr: 
 - Join the **talk and demo sessions** on July 15th 2021 with your corporate workstation
-badge NFT into your wallet.
-- Join the 30 day **Cloud Skills Challenge** self-learning experience.
-Please use your personal/private workstation to access Microsoft Learn.
-- Challenge Winners will receive a small goodie bag from Microsoft (*)
-- Claim your first *Azure Hero "Learner"* digital badge ("NFT")
+- Claim your *Azure Hero "Learner"* digital badge ("NFT")
+- Join our 30 day **Cloud Skills Challenge** for a great self-enablement experienc. 
+- Please use your personal/private workstation to access Microsoft Learn
+- Challenge winners will receive a goodie bag from Microsoft (*)
 - Consider signing up for our developer newsletter ``Microsoft.Source`` 
 - Connect with your Microsoft tech community
 
@@ -60,7 +59,12 @@ By joining our tech sessions, you are eligible to claim a **Azure Hero Learner**
 Azure Hero "Badgers" are **NFT**s ("Nun-Fungible Tokens", https://en.wikipedia.org/wiki/Non-fungible_token), stored on the Ethereum Blockchain and claimed into your personall wallet. 
 You can "proof" your achievements, share your digital badges with others, and keep collecting more of them as you continue to be a part of or Microsoft Azure technical community.
 
-Check out the [Azure Heroes website](https://www.microsoft.com/skills/azureheroes) to find out more about these digital collectibles and how to earn them!
+To claim your badge, start by scanning this QR code:
+
+![](./img/azure_heroes_learner_qr.png)
+
+
+Check out the [Azure Heroes website](https://www.microsoft.com/skills/azureheroes) to find out more about our other digital collectibles and how to earn them!
 
 
 
@@ -70,9 +74,7 @@ Check out the [Azure Heroes website](https://www.microsoft.com/skills/azureheroe
 
 ## PART 2: Cloud Skills Challenge (CSC)
   ![](https://learn.microsoft.com/images/learn_left_icon.png)
-  - To deepen your skills after the sessions, we run a one month Cloud Skills Challenge, where you compete with your colleagues for XP points on a global leaderboard.
-  
-  
+  - To deepen your skills after the sessions, we run a one month Cloud Skills Challenge, where you compete with your colleagues for for climbing the leaderboard.
   - This is a gamified, hands-on self-learning challenge
   - The challenge is running from **July 15th 09:00 CET** to **August 15th 23:59:59 CET**
   - Everything is happening on [Microsoft Learn](https://learn.microsoft.com/) , our global technical learning platform. For some labs, there will be sandboxes to run the code, directly from your browser (*)
@@ -89,20 +91,25 @@ If you want more details on how to join the challenge, have a look at [this](./C
    
 
 
-### A note on data privacy and PII (Personally Identifiable Information)
+### Data privacy and PII (Personally Identifiable Information)
   ![](https://learn.microsoft.com/images/learn_right_icon.png)
 
 
-**NOTE**: Microsoft runs on trust, and data privacy is key. 
-Microsoft Learn is **never** sharing your PII with other Microsoft teams (like marketing) or individuals without your explicit consent. This also means that we have no way of reaching out to challenge participants directly, e.g. by just looking at the leaderboard.
-Please get in touch with the event organisers afterwards if you think you qualify as a winner, and we'll make sure we find a compliant way to sent you the goodies.
+**NOTE**: Microsoft runs on trust, and data privacy and compliance are key aspects of that. 
+Our global Microsoft Learn platform is **never** sharing your PII with other Microsoft teams (like marketing) or individuals without your explicit consent. In our context here this also means that we have no way of reaching out to the challenge participants directly, e.g. by just downloading the leaderboard or exporting the participant list. 
+
+Please get in touch with the event organisers instead afterwards on how to claim your winner rewards. We'll make sure we find a compliant way to pass your rewards to you.
 
 
 ---
 
 ### ``Microsoft.Source`` Newsletter
-Everybody loves "yet another newsletter", right? ;) However, this one is really nice - no BS and just great technical content. No Spam, we promise. 
+Everybody loves newsletters, right? ;) However, this one is really nice - no BS and just great technical content from and for developers, architects, data scientists and other tech roles.
+ No Spam, we promise. 
+
 ![](https://azurecomcdn.azureedge.net/cvt-226ae6ce2dace5268def8efe908dfe4b75a17f77e99263ae0a2057961c6919ee/images/page/resources/join-the-azure-developer-community/newsletter.png)
+
+
 Consider signing up here: https://azure.microsoft.com/resources/join-the-azure-developer-community/
 
 
