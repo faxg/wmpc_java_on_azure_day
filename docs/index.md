@@ -65,7 +65,7 @@ To claim your badge, start by scanning this QR code and follow the instructions:
 <img src="./img/azure_heroes_learner_qr.png" width="200px"/>
 
 
-Check out the [Azure Heroes website](https://www.microsoft.com/skills/azureheroes) to find out more about our other digital collectibles and how to earn them!
+Check out the [Azure Heroes website](https://www.microsoft.com/skills/azureheroes?WT.mc_id=java-00000-ropreddy) to find out more about our other digital collectibles and how to earn them!
 
 
 
