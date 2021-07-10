@@ -62,7 +62,11 @@ You can then "proof" your achievements, share your digital badges with others, a
 
 To claim your badge, start by scanning this QR code and follow the instructions:
 
-<img src="./img/azure_heroes_learner_qr.png" width="200px"/>
+<a href="https://jumpnet.beam.enjin.io/claim/d4a9bdd5419237d05f1fc702a3c78da3">
+  <img src="./img/azure_heroes_learner_qr.png" width="200px"/>
+</a>
+[Claim this reward!](https://jumpnet.beam.enjin.io/claim/d4a9bdd5419237d05f1fc702a3c78da3)
+
 
 
 Check out the [Azure Heroes website](https://www.microsoft.com/skills/azureheroes?WT.mc_id=java-00000-ropreddy) to find out more about our other digital collectibles and how to earn them!
